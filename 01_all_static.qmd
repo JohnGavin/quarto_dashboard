@@ -3,6 +3,10 @@
 # All Static
 
 ```{r}
+# library(chattr)
+chattr::chattr_app()
+```
+```{r}
 #| context: setup
 
 library(gt)
@@ -142,6 +146,3 @@ palmerpenguins::penguins |>
 ```
 
 :::
-
-
-

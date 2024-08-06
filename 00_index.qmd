@@ -41,4 +41,3 @@ div[data-context="setup"] {
 <!-- R-Shiny with sliders to include points in plot(USE {webr}) -->
 
 <!-- Shiny for Python with Sliders to include points in plot use shinylive -->
-
